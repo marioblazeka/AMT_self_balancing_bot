@@ -245,4 +245,6 @@ void ispisVrijednost() {
 
 https://photos.app.goo.gl/SDppAcjDebctiuBS6
 
+https://photos.app.goo.gl/rTajonfmqY6gzyHn7
+
 
